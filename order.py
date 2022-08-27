@@ -1,7 +1,6 @@
 #Code đa phần được skid từ https://replit.com/@ThyNguyn20/FastRoyalblueProtools :P
 
-import string
-import random
+import time
 
 a = 1
 b = 2
@@ -49,5 +48,28 @@ if choice == '9':
   print('Bạn đã chọn',a,'miếng bánh Brownies.')
 if choice == '10':
   print('Bạn đã chọn',a,'miếng bánh kem.')
+choice2 = input ("Bạn có muốn chọn tiếp không? Hãy nhấn 1 nếu có, 0 nếu không.")
 
+if choice2 == "1":
 
+if choice == '1':
+  print("Bạn đã chọn",a,"Burger thịt bò phô mai.")
+if choice == '2':
+  print('Bạn đã chọn',a,'Burger thịt gà.')
+if choice == '3':
+  print('Bạn đã chọn',b,'hai miếng đùi gà rán.')
+if choice == '4':
+  print('Bạn đã chọn',c,'miếng gà không xương.')
+if choice == '5':
+  print('Bạn đã chọn',a,'suất khoai tây chiên.')a
+if choice == '6':
+  print('Bạn đã chọn',d,'đồ uống.')
+if choice == '7':
+  print('Bạn đã chọn',d,'Trà chanh.')
+if choice == '8':
+  print('Bạn đã chọn',a,'cây kem.')
+if choice == '9':
+  print('Bạn đã chọn',a,'miếng bánh Brownies.')
+if choice == '10':
+  print('Bạn đã chọn',a,'miếng bánh kem.')
+  
